@@ -1,5 +1,6 @@
-# darwin-sdk
+# Asteroid Classifier
 
+This project uses Darwin by SparkCognition to classify near-earth objects to see whether they are potentially dangerous or not. The Earth is surrounded by thousands of asteroids that could potentially be impact the Earth. These asteroids are monitored by a system called Sentry, but this system could potentially be supplemented with a prediction model on the likelihood of a new near-earth object being dangerous to the earth.
 
 Darwin SDK is a python 3.x interface to Darwin<sup>TM</sup>.
 
